@@ -15,16 +15,16 @@ body{
     flex-direction: column;
      align-items: center;
      /* padding: 150px 0px 150px 0px; */
-     height: 550px;
+     height: 600px;
 }
 #cont {
     position: absolute;
-    top: 30px;
+    top: 27px;
     /* width: 60px; */
-    background-color: red;
+    background-color: yellow;
     border-radius: 100%;
-    padding: 10px 10px 10px 10px;
-    box-shadow: #494a49;
+    padding: 15px 15px 15px 15px;
+      box-shadow: 3px 3px 5px 6px #9b9a80;
 }
 #container{
     display: flex;
@@ -34,8 +34,9 @@ body{
     justify-content: center;
     align-content: center;
     /* height: 500px; */
-    padding: 40px 25px 15px 25px;
+    padding: 60px 25px 15px 25px;
     text-align: center;
+    
 }
 
 .content1{
@@ -63,9 +64,14 @@ body{
 #btn{
     background-color: rgb(24, 154, 215);
     border: solid rgb(24, 154, 215) thin;
+    font-size: 17px;
+    cursor: pointer;
+    color: white;
 
 
 }
 .content4 a{
     text-decoration: none;
+    color: red;
+    font-size: 18px;
 }
