@@ -21,7 +21,7 @@ body{
     position: absolute;
     top: 27px;
     /* width: 60px; */
-    background-color: yellow;
+    background-color: #ffa000;
     border-radius: 100%;
     padding: 15px 15px 15px 15px;
       box-shadow: 3px 3px 5px 6px #9b9a80;
@@ -72,6 +72,6 @@ body{
 }
 .content4 a{
     text-decoration: none;
-    color: red;
+    color: black;
     font-size: 18px;
 }
